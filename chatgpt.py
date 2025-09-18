@@ -8,8 +8,8 @@ import asyncio
 # =========================
 # 🔑 Keys
 # =========================
-OPENAI_API_KEY = "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"
-TELEGRAM_BOT_TOKEN = "8304673595:AAEslxwdshpSZOL-0BEEkMBi9rcwOjvdrzY"
+OPENAI_API_KEY = "Enter your open ai key"
+TELEGRAM_BOT_TOKEN = "Enter Your TELEGRAM_BOT_TOKEN"
 
 # =========================
 # ⚙️ Model & OpenRouter Settings
@@ -130,3 +130,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
